@@ -159,3 +159,5 @@ npm run build
 6. **Admin Dashboard**: Highlight the stats cards (Total, Pending, In Progress, Resolved) and filter controls.
 7. **Manage Ticket**: Click **Manage & Update** on the student's ticket, change status to **IN_PROGRESS** and then **RESOLVED**, adding note *"Technician dispatched, projector bulb replaced."* Click **Save Update**.
 8. **Student Verification**: Log back in as student to show the ticket updated to **RESOLVED** with the admin note displayed.
+## Security Pipeline
+This project uses GitHub Actions for automated build and security testing.
